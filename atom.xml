@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-11-04T06:35:15.549Z</updated>
+  <updated>2016-11-04T06:46:48.771Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World!</title>
+    <title>Java 泛型</title>
     <link href="http://yoursite.com/2016/07/27/Java%20%E6%B3%9B%E5%9E%8B/"/>
     <id>http://yoursite.com/2016/07/27/Java 泛型/</id>
     <published>2016-07-26T16:00:00.000Z</published>
-    <updated>2016-11-04T06:35:15.549Z</updated>
+    <updated>2016-11-04T06:46:48.771Z</updated>
     
     <content type="html"><![CDATA[<p>#&#x80CC;&#x666F;</p>
 <blockquote>
